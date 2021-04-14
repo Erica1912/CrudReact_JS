@@ -1,2 +1,8 @@
 # Crud_React_JS
-Hacer un CRUD con API REST en React JS. Utilizar peticiones con los métodos GET, POST, DELETE y PUT.
+Hacer un CRUD Sencillo en React. Utilizar peticiones con los métodos GET, POST, DELETE y PUT.
+
+
+Utilizamos un data dentro del archivo App.js que el que vamos a usar
+
+
+
